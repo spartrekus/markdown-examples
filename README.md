@@ -27,8 +27,12 @@ Nulla vulputate, nisi sed placerat consectetur, arcu augue condimentum velit, eu
 
 
 ## Markdown Images 
-![kittens!](http://placekitten.com/400/500 "Kitten from placekitten.com")### Markdown Example - Links
+![kittens!](http://placekitten.com/400/500 "Kitten from placekitten.com")
 
+
+## Markdown Example - Links
+Just a link [Lorem Lipsum](http://www.lipsum.com/) 
+Just a link to gnu.org [GNU](http://www.gnu.org/) 
 
 ## Link within a paragraph
 Aliquam hendrerit congue mauris at imperdiet. Suspendisse sit amet justo eu lacus tempor malesuada aliquam et massa. Proin malesuada, sem id facilisis facilisis, ipsum lacus tincidunt dui, ut tincidunt diam urna vitae tellus. Etiam auctor dapibus felis, auctor eleifend erat semper non. [Lorem Lipsum](http://www.lipsum.com/) laoreet metus. Duis odio elit, venenatis nec malesuada at, pretium ut quam. Aenean sagittis eleifend rutrum. Ut dictum volutpat metus sit amet imperdiet. Integer iaculis massa vel ipsum tincidunt dictum. In fringilla pellentesque massa eget faucibus. Quisque vitae ligula justo.### Markdown Example - Lists
