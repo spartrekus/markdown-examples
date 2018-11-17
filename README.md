@@ -25,6 +25,8 @@ In hac habitasse platea dictumst. Morbi non rutrum risus. Proin orci nisi, commo
 
 Nulla vulputate, nisi sed placerat consectetur, arcu augue condimentum velit, eu molestie lacus quam ut ante. Nullam leo ipsum, auctor vitae ultrices sed, facilisis a massa. Vestibulum tristique lacus a mauris ullamcorper vel viverra orci aliquam. Proin facilisis, ligula volutpat bibendum mollis, urna dui volutpat est, ut dictum turpis ipsum sed arcu. Aliquam erat volutpat. In eget rutrum massa. Etiam a magna quis dolor eleifend laoreet. Vivamus non semper orci. Phasellus imperdiet sapien posuere purus aliquet consequat consectetur urna sodales. Sed tristique placerat facilisis. Phasellus vitae rutrum arcu.
 
+## Markdown Bold
+But, you may also use text format as well, like **This might be bold.**
 
 ## Markdown Images 
 ![kittens!](http://placekitten.com/400/500 "Kitten from placekitten.com")
@@ -42,15 +44,18 @@ Aliquam hendrerit congue mauris at imperdiet. Suspendisse sit amet justo eu lacu
 * vel 
     * libero 
     * eget 
+ * deku
 * ante
+
+
 
 ## Ordered list
 1. Aenean 
 2. vel 
 3. libero 
 4. eget 
-5. ante### Markdown Example - Paragraphs
-
+5. ante
+7. deku
 
 
 
